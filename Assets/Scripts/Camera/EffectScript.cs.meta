@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 60e0685f28b719c40a31866d1e8a78da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - outlineMat: {instanceID: 0}
+  - pixelMat: {fileID: 2100000, guid: c48cd3566b3131b4684ad1387713211c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
